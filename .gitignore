@@ -18,6 +18,7 @@ __pycache__/
 Book/
 frames/
 *.mp4
+*.pdf
 
 # C extensions
 *.so
