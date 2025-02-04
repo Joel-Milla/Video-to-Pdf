@@ -14,11 +14,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Allow all files in the root directory
+!/*
 # Files specific to the proyect
-Book/
-frames/
 *.mp4
 *.pdf
+
+# Ignore all directories
+*/
 
 # C extensions
 *.so
